@@ -10,6 +10,4 @@ scipy
 tb-nightly
 tqdm
 yapf
-wandb
 einops
-
